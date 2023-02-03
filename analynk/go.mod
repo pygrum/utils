@@ -1,4 +1,4 @@
-module github.com/pygrum/analynk
+module github.com/pygrum/utils/analynk
 
 go 1.19
 
